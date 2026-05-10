@@ -205,9 +205,9 @@ export default function Page() {
                   <td className="border-2 text-center">
                     <Link
                       href={`/updatetask/${task.id}`}
-                      className="text-blue-600"
+                      className="text-blue-500 cursor-pointer"
                     >
-                      แก้ไข+
+                      แก้ไข
                     </Link>
 
                     {" | "}
