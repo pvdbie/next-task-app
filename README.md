@@ -1,1 +1,1 @@
-<img src="images/photo1.png" width="500" alt="คำอธิบายรูป">
+<img src="assets/tasking.png" width="500" alt="คำอธิบายรูป">
